@@ -38,4 +38,4 @@ Enter a word: Hello
 
 ## **Requirements:**
 - **Python 3.x**
-- **Pandas Library**
+-- `pandas` module 
