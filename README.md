@@ -36,6 +36,7 @@ Enter a word: Hello
 ['Hotel', 'Echo', 'Lima', 'Lima', 'Oscar']
 ```
 
-## **Requirements:**
-- **Python 3.x**
--- `pandas` module 
+## **Requirements**  
+- Python 3.x
+- `pandas` module 
+
